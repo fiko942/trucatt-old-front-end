@@ -1,0 +1,39 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Trucatt\bin\Debug\Trucatt.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Trucatt\bin\Debug\Trucatt.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Trucatt\bin\Debug\Trucatt.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Trucatt\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\Trucatt\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\Trucatt\obj\x86\Debug\Trucatt.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Trucatt\obj\x86\Debug\Trucatt.tc_menuutama.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Trucatt\obj\x86\Debug\Trucatt.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Trucatt\obj\x86\Debug\Trucatt.tc_prepare.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Trucatt\obj\x86\Debug\Trucatt.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Trucatt\obj\x86\Debug\Trucatt.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Trucatt\obj\x86\Debug\Trucatt.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Trucatt\obj\x86\Debug\Trucatt.pdb
+F:\project trucatt\visual basic\Trucatt\Trucatt\obj\x86\Debug\Trucatt.exe
+F:\project trucatt\visual basic\Trucatt\Trucatt\obj\x86\Debug\Trucatt.xml
+F:\project trucatt\visual basic\Trucatt\Trucatt\obj\x86\Debug\Trucatt.pdb
+F:\project trucatt\visual basic\Trucatt\Trucatt\obj\x86\Debug\Trucatt.vbprojResolveAssemblyReference.cache
+F:\project trucatt\visual basic\Trucatt\Trucatt\obj\x86\Debug\Trucatt.tc_menuutama.resources
+F:\project trucatt\visual basic\Trucatt\Trucatt\obj\x86\Debug\Trucatt.Resources.resources
+F:\project trucatt\visual basic\Trucatt\Trucatt\obj\x86\Debug\Trucatt.tc_prepare.resources
+F:\project trucatt\visual basic\Trucatt\Trucatt\obj\x86\Debug\Trucatt.vbproj.GenerateResource.Cache
+F:\project trucatt\visual basic\Trucatt\Trucatt\bin\Debug\Trucatt.exe
+F:\project trucatt\visual basic\Trucatt\Trucatt\bin\Debug\Trucatt.pdb
+F:\project trucatt\visual basic\Trucatt\Trucatt\bin\Debug\Trucatt.xml
+F:\project trucatt\visual basic\Trucatt\Trucatt\bin\Debug\Guna.UI2.dll
+F:\project trucatt\visual basic\Trucatt\Trucatt\bin\Debug\MySql.Data.dll
+F:\FLASHDISK\project trucatt\visual basic\Trucatt\TrucattOldFrontEnd\obj\x86\Debug\Trucatt.xml
+F:\FLASHDISK\project trucatt\visual basic\Trucatt\TrucattOldFrontEnd\obj\x86\Debug\Trucatt.pdb
+F:\FLASHDISK\project trucatt\visual basic\Trucatt\TrucattOldFrontEnd\bin\Debug\Trucatt.exe
+F:\FLASHDISK\project trucatt\visual basic\Trucatt\TrucattOldFrontEnd\bin\Debug\Trucatt.pdb
+F:\FLASHDISK\project trucatt\visual basic\Trucatt\TrucattOldFrontEnd\bin\Debug\Trucatt.xml
+F:\FLASHDISK\project trucatt\visual basic\Trucatt\TrucattOldFrontEnd\bin\Debug\MySql.Data.dll
+F:\FLASHDISK\project trucatt\visual basic\Trucatt\TrucattOldFrontEnd\obj\x86\Debug\Trucatt.vbprojResolveAssemblyReference.cache
+F:\FLASHDISK\project trucatt\visual basic\Trucatt\TrucattOldFrontEnd\obj\x86\Debug\Trucatt.tc_alert.resources
+F:\FLASHDISK\project trucatt\visual basic\Trucatt\TrucattOldFrontEnd\obj\x86\Debug\Trucatt.tc_menuutama.resources
+F:\FLASHDISK\project trucatt\visual basic\Trucatt\TrucattOldFrontEnd\obj\x86\Debug\Trucatt.Resources.resources
+F:\FLASHDISK\project trucatt\visual basic\Trucatt\TrucattOldFrontEnd\obj\x86\Debug\Trucatt.tc_prepare.resources
+F:\FLASHDISK\project trucatt\visual basic\Trucatt\TrucattOldFrontEnd\obj\x86\Debug\Trucatt.vbproj.GenerateResource.Cache
+F:\FLASHDISK\project trucatt\visual basic\Trucatt\TrucattOldFrontEnd\obj\x86\Debug\Trucatt.exe
