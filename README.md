@@ -24,13 +24,18 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
 [![Product Name Screen Shot][product-screenshot]](https://trucatt.tobelsoft.my.id)
 
 ### Built With
 
 * [Visual Basic](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
 * [Guna UI2](https://gunaui.com/)
+
+### Buy me a coffe
+
+* Dana - 085935099343
+* Gopay - 085935099343
+* Ovo - 085935099343
 
 ## Contact
 
